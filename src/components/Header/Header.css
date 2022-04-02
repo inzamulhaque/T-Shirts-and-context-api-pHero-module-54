@@ -1,0 +1,14 @@
+nav a {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    transition: all 0.5s;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+.active {
+    color: orange;
+}
